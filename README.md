@@ -14,8 +14,4 @@ We will use the auth template provided by Omar to build an app similar to the Se
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Internal
 
-### Course landing pages
-
-- [SEB - Software Engineering Bootcamp](https://seb-bh.github.io/products-frontend/)
