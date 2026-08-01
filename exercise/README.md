@@ -108,7 +108,7 @@ Verify that:
 
 Now we will be working in the frontend with the react app. Make sure your backend app is still running
 
-## /my-entries page
+## Part 7 - /my-entries page
 
 1. Create the component page for `/my-entries`, add it to the App.jsx as a route. Make sure to wrap it with `ProtectedRoute.jsx`. this page should make a call to the api to get all my posts (Remember to send the token with the request in the headers)
 
@@ -118,7 +118,7 @@ Now we will be working in the frontend with the react app. Make sure your backen
 3. Add it to the navbar Make sure only logged in users can see this in the navbar
 
 
-## /entries page
+## Part 8 - /entries page
 
 1. Create the component page for `/entries` and add it to your `App.jsx`. This route should make an API call to the `/entries` endpoint that returns all public endpoints.
 
@@ -127,7 +127,7 @@ Now we will be working in the frontend with the react app. Make sure your backen
 3. Add it to the navbar. This is a public route. users DO NOT need to be logged to see it in the navbar
 
 
-## /entries/create page
+## Part 9 - /entries/create page
 
 1. Create a page component for creating a new entry. It should contain a form that takes in the data of a new entry and when submitted should send a `POST` request to `/entries`
 
