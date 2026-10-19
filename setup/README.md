@@ -6,7 +6,7 @@
 ## Setup
 
 
-Clone both the [backend](https://github.com/SEB-13-Bahrain/jwt-auth-template-backend) and [frontend](https://github.com/SEB-13-Bahrain/jwt-auth-template-frontend) auth templates by following the steps provided in its `README.md`.
+Clone both the [backend](https://github.com/SEB-PT-9-Bahrain/auth-template-backend) and [frontend](https://github.com/SEB-PT-9-Bahrain/auth-template-frontend) auth templates by following the steps provided in its `README.md`.
 
 Once everything is working, you will use that project as the starting point for this lab.
 
