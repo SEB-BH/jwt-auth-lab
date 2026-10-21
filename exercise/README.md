@@ -110,7 +110,7 @@ Now we will be working in the frontend with the react app. Make sure your backen
 
 ## Part 7 - /my-entries page
 
-1. Create the component page for `/my-entries`, add it to the App.jsx as a route. Make sure to wrap it with `ProtectedRoute.jsx`. this page should make a call to the api to get all my posts (Remember to send the token with the request in the headers)
+1. Create the component page for `/my-entries`, add it to the App.jsx as a route. Make sure to wrap it with `user ? <COMPONENT_NAME/>:<Navigate to='/sign-in'/>`. this page should make a call to the api to get all my posts (Remember to send the token with the request in the headers)
 
 2. BONUS: Add Loading state, Error state, Empty entries state (`No Entries made yet`)
 
